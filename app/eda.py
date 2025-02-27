@@ -1,4 +1,4 @@
-import streamlit as st
+'''import streamlit as st
 import pandas as pd
 #import seaborn as sns
 import matplotlib.pyplot as plt
@@ -51,3 +51,4 @@ def explore():
             fig, ax = plt.subplots(figsize=(10, 6))
             sns.heatmap(df.corr(), annot=True, cmap="coolwarm", linewidths=0.5, ax=ax)
             st.pyplot(fig)
+'''
