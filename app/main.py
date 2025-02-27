@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd 
 import numpy as np
 
-from eda import explore
+#from eda import explore
 from predict import predict
 import pathlib
 
