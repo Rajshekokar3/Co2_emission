@@ -81,5 +81,5 @@ if st.session_state.show_inputs:
             predict(numeric_vehicle,numeric_trans, engine_size, cylinders,numeric_car,numeric_type,fuel_consumption_city, fuel_consumption_hwy, fuel_consumption_comb, fuel_consumption_comb_mpg)
 
 
-if st.button("EDA",key="grey"):
-    explore()
+#if st.button("EDA",key="grey"):
+    #explore()
